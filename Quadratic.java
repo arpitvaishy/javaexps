@@ -6,6 +6,6 @@ public class Quadratic {
     double disc = b*b - 4.0*c;
     double d = Math.sqrt(disc);
     System.out.println((-b + d)/2.0);
-    System.out.println((-b - d)2.0);
+    System.out.println((-b - d)/2.0);
     }
 }
