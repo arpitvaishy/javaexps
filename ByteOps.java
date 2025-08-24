@@ -1,4 +1,4 @@
-public class Intops {
+public class ByteOps {
 public static void main(String[] args) {
     byte a = Byte.parseByte(args[0]);
     byte b = Byte.parseByte(args[1]);
